@@ -31,7 +31,5 @@ WIP...
 It help becode to have a clear structure to manage hackathon. And to avoid any bad communication.
 
 ## License
-
-A short snippet describing the license (MIT, Apache etc)
-
+Becode.org
 © Kevin@Becode
